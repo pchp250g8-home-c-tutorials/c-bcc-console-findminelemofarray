@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.08 18:43:30.127,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.08 18:43:30.307,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.08 18:48:49.944,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMinElemOfArray\FindMinElemOfArrayPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.08 18:48:49.956,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMinElemOfArray\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.08 18:48:49.969,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMinElemOfArray\FindMinElemOfArray.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.08 18:48:59.940,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMinElemOfArray\FindMinElemOfArray.c=D:\Projects\Programming\C\BDS\Console\Algorithms\FindMinElemOfArray\File1.c</Transaction>
+    <Transaction>2026.01.08 18:49:02.953,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMinElemOfArray\FindMinElemOfArray.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\FindMinElemOfArray\FindMinElemOfArray.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
