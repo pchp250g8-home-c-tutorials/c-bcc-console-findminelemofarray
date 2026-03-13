@@ -15,6 +15,7 @@ The program does the following:
   8. Displays the index of the minimum element of the array and its value.
 
 
+FindMaxElemOfArray. Занятия по C. ИС Embarcadero Rad Studio. Простой Ввод-вывод. Массивы. Алгоритмы. Консольное приложение.
 Проект консольного приложения написан на языке программирования C в интегрированной среде Microsoft Visual Studio. 
 Простой ввод-вывод. Работа с массивами и случайными числами. Поиск минимального элемента массива. 
 Программа делает следующее:
